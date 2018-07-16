@@ -1,7 +1,7 @@
 {
   "name": "node-zendesk",
   "version": "1.3.0",
-  "description": "zendesk API client wrapper",
+  "description": "Fork from blakmatrix/node-zendesk. Zendesk API client wrapper",
   "keywords": [
     "zendesk",
     "API",
@@ -16,16 +16,16 @@
     "reseller",
     "knowledge base"
   ],
-  "homepage": "https://github.com/blakmatrix/node-zendesk",
+  "homepage": "https://github.com/atlantech/node-zendesk",
   "repository": {
     "type": "git",
-    "url": "git://github.com/blakmatrix/node-zendesk.git"
+    "url": "git://github.com/atlantech/node-zendesk.git"
   },
   "main": "./lib/client.js",
   "scripts": {
     "test": "node ./test/*-test.js"
   },
-  "author": "Farrin Reid <blakmatrix@gmail.com>",
+  "author": "Alexander Leanovich <a.leanovich@yandex.ru>",
   "contributors": [
     "Nie Xiaochen <nnabuuu@noreply.users.github.com>",
     "Eriks Reks <erikzrekz@noreply.users.github.com>",
